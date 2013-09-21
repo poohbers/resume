@@ -7,7 +7,7 @@
 
 ## Experience
 **Poohbers**
-Over the past year, I have learned a lot of front-end development. I wanted to take all of that knowledge and build my own site from scratch. I wrote everything including, HTML, CSS, and Javascript. **[You can check out the site](http://poohbers.com)**.
+Over the past year, I have learned a lot of front-end development. I wanted to take all of that knowledge and build my own site from scratch. I wrote everything including, HTML, CSS, and JavaScript. **[You can check out the site](http://poohbers.com)**.
 
 **QVC Interactive Experiences**
 For it's most popular shows, QVC wanted to have an interactive experience that fans could use while watching the show. I worked on the design and CSS for *The Lisa Robertson Show* and *You're Home with Jill*, along with another designer and developer.
@@ -35,7 +35,7 @@ I went to **[Philly Startup Weekend](http://philly.startupweekend.org/)** with a
 *Tools* - Sketch, Photoshop, Illustrator, Paper, and Pen
 
 **Development**
-*Skills* - HTML5, CSS3, SASS, Javascript, jQuery, and Handlebars
+*Skills* - HTML5, CSS3, SASS, JavaScript, jQuery, and Handlebars
 *Tools* - Sublime Text 2, Terminal, Git, and Chrome
 
 ---
