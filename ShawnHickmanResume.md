@@ -1,6 +1,6 @@
 # Shawn Hickman
 - poohbers.com 
-- 610-809-1533, 
+- 610-809-1533
 - shawn@yagglo.com
 
 ---
