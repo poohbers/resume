@@ -29,14 +29,21 @@ I went to **[Philly Startup Weekend](http://philly.startupweekend.org/)** with a
 
 ---
 
-## Technical
-**Design**
-*Skills* - UI, UX, Mobile, iOS, and Logos
-*Tools* - Sketch, Photoshop, Illustrator, Paper, and Pen
+## Design
+**Skills**
+UI, UX, Mobile, iOS, and Logos
 
-**Development**
-*Skills* - HTML5, CSS3, SASS, JavaScript, jQuery, and Handlebars
-*Tools* - Sublime Text 2, Terminal, Git, and Chrome
+**Tools**
+Sketch, Photoshop, Illustrator, Paper, and Pen
+
+---
+
+## Development
+**Skills**
+HTML5, CSS3, SASS, JavaScript, jQuery, and Handlebars
+
+**Tools**
+Sublime Text 2, Terminal, Git, and Chrome
 
 ---
 
