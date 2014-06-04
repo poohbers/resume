@@ -31,7 +31,7 @@ I went to **[Philly Startup Weekend](http://philly.startupweekend.org/)** with a
 
 ## Design
 **Skills**
-UI, UX, Mobile, iOS, and Logos
+Designing products for people
 
 **Tools**
 Sketch, Photoshop, Illustrator, Paper, and Pen
@@ -40,7 +40,7 @@ Sketch, Photoshop, Illustrator, Paper, and Pen
 
 ## Development
 **Skills**
-HTML5, CSS3, SASS, JavaScript, jQuery, and Handlebars
+HTML5, CSS3, SASS, JavaScript(little bit), jQuery, and Handlebars
 
 **Tools**
 Sublime Text 2, Terminal, Git, and Chrome
