@@ -6,8 +6,8 @@
 ---
 
 ## Experience
-**Poohbers**
-Over the past year, I have learned a lot of front-end development. I wanted to take all of that knowledge and build my own site from scratch. I wrote everything including, HTML, CSS, and JavaScript. **[You can check out the site](http://poohbers.com)**.
+**QVC iPhone App Restyle**
+This was a complete restyle of the current QVC iPhone app. I implemented the visual style and provided detailed documentation to the development and business teams. I then worked alongside developers to guide and answer any questions. This project was completed August 2014.
 
 **QVC Interactive Experiences**
 For it's most popular shows, QVC wanted to have an interactive experience that fans could use while watching the show. I worked on the design and CSS for *The Lisa Robertson Show* and *You're Home with Jill*, along with another designer and developer.
@@ -25,7 +25,7 @@ This was a research team that was tasked with rethinking the QVC televised broad
 I, along with a developer created a tool for the design department to look up product images. Before, the designers had to manually type and edit a complicated URL. Now, they type in a product number and get all of the available images. It is a very successful product that about 50+ people in the company continue to use today.
 
 **Yagglo**
-I went to **[Philly Startup Weekend](http://philly.startupweekend.org/)** with an idea, a new web browser for the iPad. I was able to team up with two other guys, and together, we were able to put together a rough prototype and **[win](http://technical.ly/philly/2012/04/23/yagglo-bests-17-other-startups-to-win-startup-weekend/)**.
+I went to Philly Startup Weekend with an idea, a new web browser for the iPad. I was able to team up with two other guys, and together, we were able to put together a rough prototype and **[win](http://technical.ly/philly/2012/04/23/yagglo-bests-17-other-startups-to-win-startup-weekend/)**.
 
 ---
 
