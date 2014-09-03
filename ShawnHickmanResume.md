@@ -1,5 +1,5 @@
 # Shawn Hickman
-- poohbers.com 
+- [Poohbers.com](http://poohbers.com)
 - 610-809-1533
 - shawn@poohbers.com
 
