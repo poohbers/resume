@@ -34,7 +34,7 @@ I went to Philly Startup Weekend with an idea, a new web browser for the iPad. I
 Designing products for people
 
 **Tools**
-Sketch, Photoshop, Illustrator, Paper, and Pen
+Sketch, Photoshop, Illustrator, Flinto, InVision, Pixate, Keynote, Paper, and Pen
 
 ---
 
